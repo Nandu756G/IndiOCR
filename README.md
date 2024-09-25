@@ -1,4 +1,4 @@
-# EasyOCR and Text Search App
+# IndiOCR
 
 This web application allows you to upload an image, extract text from it using the EasyOCR library, and search for specific keywords within the extracted text. The app supports both English and Hindi languages for text extraction.
 
