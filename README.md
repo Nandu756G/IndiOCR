@@ -19,11 +19,4 @@ This web application allows you to upload an image, extract text from it using t
 - **Install the required Python libraries with the following command**:
 ```bash
 pip install streamlit easyocr Pillow numpy
--**Streamlit**: For building the web app interface.
--**EasyOCR**: For Optical Character Recognition (OCR).
--**Pillow**: For image handling.
--**Numpy**: For image conversion.
--**re (Regex)**: Used for keyword searching and highlighting.
 
-## Setup
--**Clone the Repository**: Clone this repository to your local machine.
