@@ -53,7 +53,7 @@ if 'search_keyword' not in st.session_state:
 if 'search_performed' not in st.session_state:
     st.session_state.search_performed = False
 
-st.title("Bilingual OCR Insight: Text Extraction and Search")
+st.title("IndiOCR")
 
 # Create an instance of the OCR model
 @st.cache_resource
