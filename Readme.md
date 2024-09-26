@@ -16,6 +16,9 @@ This web application allows you to upload an image, extract text from it using t
 - Python 3.8 or above
 
 ### Libraries:
-Install the required Python libraries with the following command:
+- **Install the required Python libraries with the following command**:
 ```bash
 pip install streamlit easyocr Pillow numpy
+
+```
+###
