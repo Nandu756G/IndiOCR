@@ -2,7 +2,12 @@
 ## Overview
 This web application allows you to upload an image, extract text from it using the EasyOCR library, and search for specific keywords within the extracted text. The app supports both English and Hindi languages for text extraction.
 ## Table of contents
-1.[Overview](#overview)
+- [Overview](#overview)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Setup](#setup)
+- [Deployment](#deployment)
+- [Public Live URL](#public-live-url)
 ## Features
 - **Image Upload**: Upload an image (JPG, JPEG, PNG formats) for text extraction.
 - **Text Extraction**: Extract text from the uploaded image using EasyOCR.
@@ -21,7 +26,7 @@ This web application allows you to upload an image, extract text from it using t
 ```bash
 pip install streamlit easyocr Pillow numpy
 ```
-## Setup and Deployment Guide
+## Setup
 
 ### Setup Instructions
 
