@@ -67,3 +67,5 @@ streamlit run app.py
 
 ## Public Live URL
 - The live URL of the deployed web application is [IndiOCR](https://indiocr.streamlit.app)
+
+## Screenshots of Web Application
