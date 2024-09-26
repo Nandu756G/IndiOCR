@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 absl-py==2.1.0
 aiofiles==23.2.1
 altair==5.3.0
@@ -214,3 +215,10 @@ wrapt==1.16.0
 wsproto==1.2.0
 xyzservices==2024.4.0
 zope.interface==6.3
+=======
+transformers
+torch
+Pillow
+streamlit
+easyocr
+>>>>>>> 33eae27b5ef3724491e503ede10de30113ca61cf
